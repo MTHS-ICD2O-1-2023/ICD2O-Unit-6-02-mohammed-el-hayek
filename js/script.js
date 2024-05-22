@@ -1,6 +1,6 @@
 // Copyright (c) 2024 Mohammed EL-hayek All rights reserved
 //
-// Created by: Mohammed
+// Created by:Mohammed
 // Created on: May 2024
 // This file contains the JS functions for index.html
 
